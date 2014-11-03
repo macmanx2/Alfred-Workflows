@@ -1,5 +1,11 @@
-Alfred-Workflows
+Brew-Update
 ================
+
+After installing this Alfred Workflow, all you need to do is enter "bu" into Alfred to quickly execute brew update, brew upgrade, brew cleanup, and brew doctor all in one shot.
+
+Icon from Emoji One: http://emojione.com/
+
+Find out more about Brew at http://brew.sh/
 
 Find out more about Alfred at http://www.alfredapp.com/
 
