@@ -1,6 +1,8 @@
 Alfred-Workflows
 ================
 
+Requires: http://www.alfredapp.com/powerpack/
+
 Find out more about Alfred at http://www.alfredapp.com/
 
 Learn about Alfred Workflows at http://support.alfredapp.com/workflows/
