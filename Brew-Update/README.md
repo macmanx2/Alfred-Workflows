@@ -1,7 +1,7 @@
 Brew-Update
 ================
 
-After installing this Alfred Workflow, all you need to do is enter "bu" into Alfred to quickly execute brew update, brew upgrade, brew cleanup, and brew doctor all in one shot.
+After installing this Alfred Workflow, all you need to do is enter "bu" into Alfred to quickly execute Brew’s update command (to see if there are any new or updated packages), upgrade command (to upgrade any installed packages), cleanup command (to remove old packages), and doctor command (to confirm that Brew is operating properly) all in one shot.
 
 Icon from Emoji One: http://emojione.com/
 
