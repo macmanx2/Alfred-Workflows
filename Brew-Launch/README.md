@@ -1,4 +1,4 @@
-Brew-Update
+Brew Launch
 ================
 
 Requires: http://brew.sh/ and http://www.alfredapp.com/powerpack/
