@@ -7,10 +7,10 @@ After installing this Alfred Workflow, all you need to do is enter "bu" into Alf
 
 Example: `bu` to do everything described above, it's really that simple.
 
-Icon from Emoji One: http://emojione.com/
-
 Learn about Alfred Workflows at http://support.alfredapp.com/workflows/
 
 Learn how to install an Alfred Workflow at http://support.alfredapp.com/workflows:installing/
+
+Icon from Twemoji: https://github.com/twitter/twemoji
 
 Find out more about me at http://macmanx.com/
