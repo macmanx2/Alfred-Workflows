@@ -1,4 +1,4 @@
-Brew Update
+Recent Forum Activity
 ================
 
 Requires locally installed Recent Forum Activity: https://github.com/keesiemeijer/recentforumactivity-nodejs
